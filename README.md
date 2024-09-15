@@ -18,3 +18,5 @@ The following library is designed, for academic purposes, to perform state-param
 The main script is called `SPEL.m` and is based on user defined inputs for various parameters. An example is readily available, within SPEL, if you skip the input step; i.e., press enter for all asked questions. 
 
 Further explanations of the inputs, the outputs and the usage of the library can be obtained by typing: help `SPEL.m`
+
+![Alt text](misc/ana_sens_2.png)
