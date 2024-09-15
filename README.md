@@ -15,6 +15,6 @@ SPEL: State and Parameters Estimation Library
 
 The following library is designed, for academic purposes, to perform state-parameters estimation using different ensemble techniques. Four different ensembles schemes are available: The Joint EnKF, the Dual EnKF, the Joint OSA EnKF and the Dual OSA EnKF. The library uses two simple models for testing and these are: the Lorenz 63 and 96.   
 
-The main script is called SPEL.m and is based on user defined inputs for various parameters. An example is readily available, within SPEL, if you skip the input step; i.e., press enter for all asked questions. 
+The main script is called `SPEL.m` and is based on user defined inputs for various parameters. An example is readily available, within SPEL, if you skip the input step; i.e., press enter for all asked questions. 
 
-Further explanations of the inputs, the outputs and the usage of the library can be obtained by typing: help SPEL.m
+Further explanations of the inputs, the outputs and the usage of the library can be obtained by typing: help `SPEL.m`
