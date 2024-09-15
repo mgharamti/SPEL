@@ -1,4 +1,4 @@
-3/8/2016
+# SPEL
 
 This directory contains Matlab routines used for experiments in papers:
 
@@ -10,9 +10,8 @@ Gharamti, M. E., A. Kadoura, J. Valstar, S. Sun, and Ibrahim Hoteit. "Constraini
 
 Contact: gharamti@ucar.edu
 
-=============================================
 SPEL: State and Parameters Estimation Library
-=============================================
+---------------------------------------------
 
 The following library is designed, for academic purposes, to perform state-parameters estimation using different ensemble techniques. Four different ensembles schemes are available: The Joint EnKF, the Dual EnKF, the Joint OSA EnKF and the Dual OSA EnKF. The library uses two simple models for testing and these are: the Lorenz 63 and 96.   
 
