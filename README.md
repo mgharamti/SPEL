@@ -19,4 +19,5 @@ The main script is called `SPEL.m` and is based on user defined inputs for vario
 
 Further explanations of the inputs, the outputs and the usage of the library can be obtained by typing: help `SPEL.m`
 
-![Alt text](misc/ana_sens_2.png)
+![Alt text](misc/state_out.png)
+![Alt text](misc/param_out.png)
